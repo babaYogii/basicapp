@@ -7,8 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <NewComp/>
-      <First/>
-       My first Commits on Git
+       <First/>
+        <br/>
+       Getting Some git  
       </header>
     </div>
   );
